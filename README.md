@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 <p align="center">
  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/zeref"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+   
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </p>
