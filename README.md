@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/zeref-xxx">
+<div align="center"> 
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
-  </a>
+  
   </div>
 
 <br><br>
