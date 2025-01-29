@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://github.com/zeref-xxx"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
+</div>
+
+<br><br>
+
+<p align="center">
+ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/zeref"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</p>
+
+<br>
+
+---
+
+<br><br>
+
+<p align="center"> 
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<!--     <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" /> -->
+   
+</p>
+
+<br><br>
+
+<p align="center">
+   
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
+ 
+</p>
+
+<br><br>
+ 
