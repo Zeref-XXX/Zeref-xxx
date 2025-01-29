@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
@@ -37,10 +35,9 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<p align="center"> 
-  a href="https://github.com/Zeref-XXX/">
+<p align="center">  
     <img src="https://skillicons.dev/icons?i=c,c++,javascript,html,css,mysql&perline=8" /> 
-</a>
+ 
 </p>
 
 <br><br>
