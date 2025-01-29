@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   a href="https://github.com/Zeref-XXX/">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,mysql&perline=8" /> 
+    <img src="https://skillicons.dev/icons?i=c,c++,javascript,html,css,mysql&perline=8" /> 
 </a>
 </p>
 
