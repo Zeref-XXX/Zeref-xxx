@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://github.com/zeref-xxx"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
-</div>
+  <a href="https://github.com/zeref-xxx">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="200" height="200" />
+  </a>
+  </div>
 
 <br><br>
 
