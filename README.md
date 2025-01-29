@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br><br>
 
 <p align="center">  
-    <img src="https://skillicons.dev/icons?i=c,c++,javascript,html,css,mysql&perline=8" /> 
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,mysql&perline=8" /> 
  
 </p>
 
