@@ -29,24 +29,3 @@ Here are some ideas to get you started:
  
 </p>
 
-<br>
-
----
-
-<br><br>
-
-<p align="center">  
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,mysql&perline=8" /> 
- 
-</p>
-
-<br><br>
-
-<p align="center">
-   
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
- 
-</p>
-
-<br><br>
- 
