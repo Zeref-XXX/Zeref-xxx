@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeref-xxx&style=flat-square&color=6366f1" alt="zeref" />
+</div>
+
 <p align="center">
  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
