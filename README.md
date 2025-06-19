@@ -1,6 +1,32 @@
-## Hi there 👋
+# こんにちは 👋 
 
-<!--
+<div align="center">
+<img height="250" width="600" alt="Coding Animation" align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+</div>
+
+</br>
+
+# 私について 💬
+
+- 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
+- コードを書くのが好き (I love writing code)
+- 日本語を勉強中 (ひらがな ✓)
+- ワンピース愛好家 & 夜行性プログラマー
+
+</br>
+
+# 技術スタック 🛠
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,mongodb,tailwind,python,cpp&theme=dark&perline=3" />
+  </a>
+</div>
+
+</br>
+
+<!-- ## Hi there 👋
+
 **Zeref-XXX/Zeref-xxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
