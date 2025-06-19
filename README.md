@@ -8,18 +8,15 @@
 
 # 私について 💬
 
-- 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
-- コードを書くのが好き (I love writing code)
-- 日本語を勉強中 (ひらがな ✓)
-- ワンピース愛好家 & 夜行性プログラマー
+ 
 
 </br>
 
-# 技術スタック 🛠
+#  🛠
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,mongodb,tailwind,python,cpp&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,mongodb,tailwind,python,cpp&theme=dark&perline=3" />
   </a>
 </div>
 
