@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/IOx1N0I1wJAAAAAC/zeref-dragneel-fairy-tail.gif" width="600px" alt="Zeref Dragneel Banner"/>
+  <img src="./jin-woo.gif_" width="500px" alt="Sung Jinwoo Arise Banner"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=500&color=C21807&center=true&vCenter=true&width=800&lines=Zeref-XXX;Mastering+the+Black+Arts+of+Code...;Wielding+the+powers+of+Darkness+^_^;One+at+time,+now+my+creation.;Arise%20....." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=500&color=7289DA&center=true&vCenter=true&width=800&lines=Zeref-XXX;The+Monarch+of+Shadows;Arise...;Wielding+the+power+of+Code.;From+E-Rank+to+S-Rank." />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">🔮 The Black Wizard's Grimoire 🔮</h3>
+<h3 align="center">🔮 My Shadow Army 🔮</h3>
 <p align="center"><em>(Languages and Tools I Command)</em></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,bash,linux,git,html,css,vscode,idea,github,docker" />
@@ -36,19 +36,19 @@
 
 ---
 
-<h3 align="center">📈 Analyzing the Flow of Magic 📈</h3>
+<h3 align="center">📈 Analyzing the Flow of Mana 📈</h3>
 <p align="center"><em>(My GitHub Stats)</em></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref-XXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&icon_color=C21807" alt="zeref-xxx's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref-XXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&icon_color=7289DA" alt="zeref-xxx's top languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeref-XXX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=C21807&icon_color=C21807" alt="zeref-xxx's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeref-XXX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7289DA&icon_color=7289DA" alt="zeref-xxx's stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeref-XXX&theme=tokyonight&hide_border=true&fire=C21807&ring=C21807&currStreakNum=ffffff" alt="zeref-xxx's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeref-XXX&theme=tokyonight&hide_border=true&fire=7289DA&ring=7289DA&currStreakNum=ffffff" alt="zeref-xxx's streak" />
 </p>
 
 ---
 
-<h3 align="center">✨ Forbidden Curses ✨</h3>
+<h3 align="center">✨ My Legendary Skills ✨</h3>
 <p align="center"><em>(My Pinned Projects)</em></p>
 <p align="center">
   <a href="https://github.com/Zeref-XXX/DSA-Bootcamp-Java">
@@ -62,7 +62,14 @@
 <br>
 
 <div align="center">
+  —╲╳╱—
+</div><br>
+<div align="center">
   <em>"If this world continues to reject me, then I shall reject the world."</em>
   <br>
   <strong>- Zeref Dragneel</strong>
+</div>
+  <br>
+<div align="center">
+  <pre>—╲╳╱—</pre>
 </div>
