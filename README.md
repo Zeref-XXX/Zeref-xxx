@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=500&color=C21807&center=true&vCenter=true&width=800&lines=Zeref-XXX;Mastering+the+Black+Arts+of+Code...;Wielding+the+powers+of+Darkness+(0%20_%200);One+at+time,+now+my+creation.;Arise%20....." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=500&color=C21807&center=true&vCenter=true&width=800&lines=Zeref-XXX;Mastering+the+Black+Arts+of+Code...;Wielding+the+powers+of+Darkness+^_^;One+at+time,+now+my+creation.;Arise%20....." />
 </div>
 
 <div align="center">
@@ -62,5 +62,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.ibb.co/6P8dFvF/Fairy-Tail-Symbol-Red-Resized.png" width="100px" alt="Fairy Tail Symbol"/>
+  <em>"If this world continues to reject me, then I shall reject the world."</em>
+  <br>
+  <strong>- Zeref Dragneel</strong>
 </div>
