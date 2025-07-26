@@ -61,6 +61,25 @@
 
 <br>
 
+
+<h3 align="center">✨ My Legendary Skills ✨</h3>
+<p align="center"><em>(My Pinned Projects)</em></p>
+<p align="center">
+  <a href="https://frontend-roan-two-80.vercel.app/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=chatBot-01&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://zeref-xxx.github.io/Web-dumps/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=Web-dumps&theme=tokyonight&hide_border=true" />
+  </a><br>
+    <a href="https://github.com/Zeref-XXX/cpp-sheets">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=cpp-sheets&theme=tokyonight&hide_border=true" />
+  </a> 
+  <a href="https://github.com/Zeref-XXX/bash-configs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=bash-configs&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<br>
 <div align="center">
   —╲╳╱—
 </div><br>
@@ -73,3 +92,4 @@
 <div align="center">
   <pre>—╲╳╱—</pre>
 </div>
+
