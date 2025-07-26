@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=500&color=7289DA&center=true&vCenter=true&width=800&lines=Zeref-XXX;The+Monarch+of+Shadows;Arise...;Wielding+the+power+of+Code.;From+E-Rank+to+S-Rank." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=300&color=7289DA&center=true&vCenter=true&width=900&lines=Zeref-XXX;The+Monarch+of+Shadows;From+E-Rank+to+S-Rank.;Wielding+the+power+of+Code.;Arise..." />
 </div>
 
 <div align="center">
