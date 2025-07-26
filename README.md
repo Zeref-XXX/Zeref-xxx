@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=300&color=7289DA&center=true&vCenter=true&width=900&lines=Zeref-XXX;The+Monarch+of+Shadows;From+E-Rank+to+S-Rank.;Wielding+the+power+of+Code.;Arise..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&pause=300&color=7289DA¢er=true&vCenter=true&width=900&lines=Zeref-XXX;The+Monarch+of+Shadows;From+E-Rank+to+S-Rank.;Wielding+the+power+of+Code.;Arise..." />
 </div>
 
 <div align="center">
@@ -31,20 +31,42 @@
 <h3 align="center">🔮 My Shadow Army 🔮</h3>
 <p align="center"><em>(Languages and Tools I Command)</em></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,bash,linux,git,html,css,vscode,idea,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,bash,linux,git,html,css,vscode,idea,github,docker,postman" />
 </p>
 
 ---
-
 <h3 align="center">📈 Analyzing the Flow of Mana 📈</h3>
 <p align="center"><em>(My GitHub Stats)</em></p>
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeref-XXX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&text_color=ffffff&icon_color=7289DA" alt="zeref-xxx's top languages" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Zeref-XXX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7289DA&icon_color=7289DA" alt="zeref-xxx's stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeref-XXX&theme=tokyonight&hide_border=true&fire=7289DA&ring=7289DA&currStreakNum=ffffff" alt="zeref-xxx's streak" />
 </p>
+
+---
+
+<h3 align="center">⚔️ Sharpening My Blade ⚔️</h3>
+<p align="center"><em>(My Competitive Programming)</em></p>
+<p align="center">
+  <a href="https://leetcode.com/u/zerefXXX/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/zerefxxx" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/zerefxxx/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://leetcode.com/u/zerefXXX/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/zerefxxx?theme=dark&font=Fira%20Code" alt="LeetCode Stats" style="height: 195px; vertical-align: top;"/></a>
+  <a href="https://codeforces.com/profile/zerefxxx" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=zerefxxx&theme=tokyonight" alt="Codeforces Stats" style="height: 195px; vertical-align: top;"/></a>
+</p>
+
 
 ---
 
@@ -79,4 +101,3 @@
 <div align="center">
   <pre>—╲╳╱—</pre>
 </div>
-
