@@ -48,20 +48,7 @@
 
 ---
 
-<h3 align="center">✨ My Legendary Skills ✨</h3>
-<p align="center"><em>(My Pinned Projects)</em></p>
-<p align="center">
-  <a href="https://github.com/Zeref-XXX/DSA-Bootcamp-Java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=DSA-Bootcamp-Java&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Zeref-XXX/Web-dumps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zeref-XXX&repo=Web-dumps&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
 <br>
-
-
 <h3 align="center">✨ My Legendary Skills ✨</h3>
 <p align="center"><em>(My Pinned Projects)</em></p>
 <p align="center">
